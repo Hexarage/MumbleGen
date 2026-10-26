@@ -1,8 +1,8 @@
 cmake_minimum_required(VERSION 3.16)
-project(CppStuff
+project(MumbleGen
     VERSION 0.0.1
     LANGUAGES CXX
-    DESCRIPTION "A C++ toy project with automatic file discovery in cmake"
+    DESCRIPTION "A mumble voice synthesizer based off of text"
 )
 
 #Global settings
